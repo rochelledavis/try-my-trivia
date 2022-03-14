@@ -1,0 +1,29 @@
+body,
+html {
+    height: 100%;
+    background-color: #ffdd57;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.show-inline {
+    display: inline-block;
+}
+
+.timer-color {
+    background-color: #48b2f8;
+}
+
+input {
+    text-align: center;
+    /* border-radius: 10px; */
+    /* height: 50px; */
+    width: 50%!important;
+    /* font-size: large; */
+}
